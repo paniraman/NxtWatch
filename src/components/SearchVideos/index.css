@@ -1,0 +1,10 @@
+.row-aline {
+  display: flex;
+}
+
+.search-button {
+  height: 30px;
+  border-radius: 0px;
+  border-width: 1px;
+  width: 50px;
+}
